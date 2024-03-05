@@ -1,0 +1,3 @@
+
+ model ='Airbus A320 ', production year = 1990, flight history = 100, crashed = false
+Customer ordered 2 drinks and 1 snacks 
